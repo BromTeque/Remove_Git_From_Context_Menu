@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\git_shell]
+"HideBasedOnVelocityId"=dword:006698a6
+
+[HKEY_CLASSES_ROOT\Directory\shell\git_gui]
+"HideBasedOnVelocityId"=dword:006698a6
+
+[HKEY_CLASSES_ROOT\LibraryFolder\background\shell\git_shell]
+"HideBasedOnVelocityId"=dword:006698a6
+
+[HKEY_CLASSES_ROOT\LibraryFolder\background\shell\git_gui]
+"HideBasedOnVelocityId"=dword:006698a6
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\background\shell\git_shell]
+"HideBasedOnVelocityId"=dword:006698a6
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\background\shell\git_gui]
+"HideBasedOnVelocityId"=dword:006698a6
+
